@@ -19,13 +19,13 @@ Still learning. Not a senior engineer. But I ship real things and I document wha
 
 ## What I've built
 
-**[AMMILY](https://github.com/akaashvermaa/Amilly)**
+**[AMMILY](https://clothing-brand-delta.vercel.app/)**
 A luxury fashion e-commerce concept — designed in Figma, built in Next.js. Frontend-focused project that sharpened my eye for UI and component architecture.
 `Next.js` `TypeScript` `Tailwind CSS` `Figma`
 
 ---
 
-**[PromptVault](https://github.com/akaashvermaa/PromptVault)**
+**[PromptVault](https://prompt-one-rho.vercel.app/)**
 A curated library of 96 AI prompts across 7 action-oriented categories. Built in Next.js 14 with a JSON data layer.
 `Next.js 14` `TypeScript` `Tailwind CSS`
 
@@ -43,7 +43,7 @@ Python · FastAPI · Docker · building production-ready AI backends.
 Working toward remote AI engineering internships by late 2026.
 
 ---
-
 ## Reach me
 
+🌐 [akashverma-dev.vercel.app](https://akashverma-dev.vercel.app)
 📧 aakash.vermaa06@gmail.com
