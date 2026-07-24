@@ -29,14 +29,6 @@ A luxury fashion e-commerce concept — designed in Figma, built in Next.js. Fro
 A curated library of 96 AI prompts across 7 action-oriented categories. Built in Next.js 14 with a JSON data layer.
 `Next.js 14` `TypeScript` `Tailwind CSS`
 
----
-
-**[CodeRAG](https://github.com/akaashvermaa/CodeRAG)** *(in progress)*
-A local-first RAG pipeline that indexes GitHub repos and answers natural language questions about codebases. Uses Ollama (qwen2.5-coder:7b + nomic-embed-text), a custom JSON vector store with cosine similarity, and Tree-sitter for AST-based code analysis.
-`Next.js` `Ollama` `RAG` `Tree-sitter` `TypeScript`
-
----
-
 ## Currently learning
 
 Python · FastAPI · Docker · building production-ready AI backends.
