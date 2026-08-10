@@ -1,41 +1,51 @@
 # Akash Verma
 
-IT student building AI-powered apps · Asansol Engineering College · India
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-local_LLMs-black?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+Software developer building full-stack and AI-powered applications · Asansol Engineering College · India
 
 ---
 
-I'm a second-year IT student who builds things at the intersection of frontend and AI. My stack is Next.js + TypeScript on the frontend, and I'm learning Python/FastAPI on the backend. Lately I've been focused on RAG pipelines and local LLM tooling with Ollama.
+I'm a second-year IT student who builds practical web applications and AI-powered tools. My main stack is Next.js + TypeScript, with PostgreSQL and Node.js on the backend. I'm also exploring Python/FastAPI, RAG pipelines, and LLM-based applications.
 
-Still learning. Not a senior engineer. But I ship real things and I document what I build.
+Still learning. Not a senior engineer. But I like building real things, solving problems, and documenting what I build.
 
 ---
 
 ## What I've built
 
-**[AMMILY](https://clothing-brand-delta.vercel.app/)**
-A luxury fashion e-commerce concept — designed in Figma, built in Next.js. Frontend-focused project that sharpened my eye for UI and component architecture.
+**[ResumeAI](https://github.com/akaashvermaa/Resume_Builder)**  
+An AI job application copilot that turns a master profile and job description into tailored resumes, cover letters, ATS analysis, skill-gap reports, and interview preparation.
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `AI`
+
+---
+
+**[Lightning Share](https://github.com/akaashvermaa)**  
+A local-network file transfer tool for sharing files directly between devices without relying on removable storage or internet connectivity. Built around reliable TCP-based communication.
+`Next.js` `TypeScript` `TCP` `Networking`
+
+---
+
+**[AMMILY](https://clothing-brand-delta.vercel.app/)**  
+A luxury fashion e-commerce concept — designed in Figma and built in Next.js. A frontend-focused project that helped me improve my UI, component architecture, and responsive design skills.
 `Next.js` `TypeScript` `Tailwind CSS` `Figma`
 
 ---
 
-**[PromptVault](https://prompt-one-rho.vercel.app/)**
-A curated library of 96 AI prompts across 7 action-oriented categories. Built in Next.js 14 with a JSON data layer.
+**[PromptVault](https://prompt-one-rho.vercel.app/)**  
+A curated library of 96 AI prompts across 7 action-oriented categories. Built with Next.js 14 and a structured JSON data layer with instant client-side filtering.
 `Next.js 14` `TypeScript` `Tailwind CSS`
+
+---
 
 ## Currently learning
 
-Python · FastAPI · Docker · building production-ready AI backends.
-Working toward remote AI engineering internships by late 2026.
+Python · FastAPI · Docker · Backend architecture · RAG · AI applications
+
+Working toward software engineering and full-stack internships where I can contribute to real products and learn through hands-on engineering.
 
 ---
+
 ## Reach me
 
-🌐 [akashverma-dev.vercel.app](https://akashverma-dev.vercel.app)
-📧 aakash.vermaa06@gmail.com
+🌐 [akashverma-dev.vercel.app](https://akashverma-dev.vercel.app)  
+📧 [aakash.vermaa06@gmail.com](mailto:aakash.vermaa06@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/akashverma-dev)
