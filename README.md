@@ -4,7 +4,7 @@ Software developer building full-stack and AI-powered applications · Asansol En
 
 ---
 
-I'm a second-year IT student who builds practical web applications and AI-powered tools. My main stack is Next.js + TypeScript, with PostgreSQL and Node.js on the backend. I'm also exploring Python/FastAPI, RAG pipelines, and LLM-based applications.
+I'm a third-year IT student who builds practical web applications and AI-powered tools. My main stack is Next.js + TypeScript, with PostgreSQL and Node.js on the backend. I'm also exploring Python/FastAPI, RAG pipelines, and LLM-based applications.
 
 Still learning. Not a senior engineer. But I like building real things, solving problems, and documenting what I build.
 
@@ -18,7 +18,7 @@ An AI job application copilot that turns a master profile and job description in
 
 ---
 
-**[Lightning Share](https://github.com/akaashvermaa)**  
+**[Lightning Share](https://github.com/akaashvermaa/Lightning-Share)**  
 A local-network file transfer tool for sharing files directly between devices without relying on removable storage or internet connectivity. Built around reliable TCP-based communication.
 `Next.js` `TypeScript` `TCP` `Networking`
 
