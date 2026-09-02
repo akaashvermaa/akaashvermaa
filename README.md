@@ -18,7 +18,7 @@ An AI job application copilot that turns a master profile and job description in
 
 ---
 
-**[Lightning Share](https://github.com/akaashvermaa/Lightning-Share)**  
+**[Lightning Share](https://lightning-share-one.vercel.app/)**  
 A local-network file transfer tool for sharing files directly between devices without relying on removable storage or internet connectivity. Built around reliable TCP-based communication.
 `Next.js` `TypeScript` `TCP` `Networking`
 
